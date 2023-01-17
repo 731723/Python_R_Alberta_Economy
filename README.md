@@ -15,3 +15,14 @@ What is the present economic condition in Alberta?
 To observe the completly rendered please follow below link:
 
 https://731723.github.io/Python_R_Alberta_Economy/
+
+The datasets can also be accessed from this link: -
+https://drive.google.com/drive/folders/1Yj5482TAmhggvqYr6_NgouR2Vbdw4Pf-
+Please run the following code if you are not able to read .csv or .xslx files from your Jupiter notebook on your system: - 
+
+#Install openpyxl
+import sys
+!{sys.executable} -m pip install openpyxl
+
+
+Thank you.
